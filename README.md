@@ -1,50 +1,25 @@
-# sergiopiedra
+# Sergio Piedra
 
-Bienvenido a mi repositorio personal.
+QA Automation Engineer based in Costa Rica.
 
-Este espacio está dedicado a proyectos, experimentos, utilidades y recursos que desarrollo para aprender, construir y compartir conocimiento.
+I work at VML (WPP), where I build internal QA tools and automation. My current toolkit has 30+ tools and brought a full validation cycle from 10+ hours to under 1 hour.
 
-## Sobre este repositorio
+These days I'm mostly working on test automation, AI-assisted QA, LLM evaluation, accessibility (WCAG), and API and performance testing.
 
-- Nombre del repositorio: `sergiopiedra`
-- Propietario: `sergiopiedra`
-- Objetivo: servir como base para proyectos personales, prototipos, scripts y contenido técnico.
+## Projects
 
-## Estructura
+| Project | Description |
+|---|---|
+| [playwright-ai-starter](https://github.com/sergiopiedra/playwright-ai-starter) | Playwright + TypeScript template with POM, fixtures, UI/API/a11y/visual tests, CI and AI-agent conventions |
+| [cypress-qa-starter](https://github.com/sergiopiedra/cypress-qa-starter) | Cypress + TypeScript starter with Page Objects, API and accessibility tests, Core Web Vitals and parallel GitHub Actions |
+| [llm-eval-lab](https://github.com/sergiopiedra/llm-eval-lab) | Evaluation harness for a local RAG assistant on Ollama: golden dataset, LLM-as-judge and quality gates |
+| [k6-performance-lab](https://github.com/sergiopiedra/k6-performance-lab) | k6 smoke, load, stress, spike and soak tests with thresholds and CI |
+| [qa-ai-skills](https://github.com/sergiopiedra/qa-ai-skills) | AI skills for QA work: test cases, bug reports, WCAG 2.2 audits, API tests and release plans |
 
-El repositorio puede ir creciendo con distintos tipos de contenido, por ejemplo:
+## Tools
 
-- aplicaciones y servicios
-- scripts y automatizaciones
-- bibliotecas o utilidades
-- documentación técnica
-- pruebas y prototipos
+Playwright, Cypress, WebdriverIO, Selenium, TypeScript, JavaScript, Python, k6, JMeter, Postman, GitHub Actions, Docker, Ollama, Claude Code, GitHub Copilot
 
-## Requisitos
+## Contact
 
-Dependen del proyecto o del tipo de contenido que se añada al repositorio. En general, es recomendable contar con:
-
-- Git
-- Un editor de código
-- El entorno necesario para el lenguaje o tecnología que se utilice
-
-## Cómo empezar
-
-```bash
-git clone https://github.com/sergiopiedra/sergiopiedra.git
-cd sergiopiedra
-```
-
-Luego, sigue la documentación específica de cada proyecto o archivo incluido en este repositorio.
-
-## Contribuciones
-
-Las sugerencias, mejoras y comentarios son bienvenidos. Puedes abrir un issue o enviar un pull request si deseas colaborar.
-
-## Licencia
-
-Este repositorio no incluye una licencia específica por defecto. Si deseas reutilizar o distribuir el contenido, revisa primero la licencia aplicable a cada proyecto o archivo individual.
-
-## Contacto
-
-Puedes contactar conmigo a través de GitHub o del perfil asociado al repositorio.
+[LinkedIn](https://www.linkedin.com/in/sergiopiedra) · s.piedranavarro@gmail.com
